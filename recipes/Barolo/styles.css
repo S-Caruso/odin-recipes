@@ -17,3 +17,9 @@ h3 {
   font-size: 40px;
   font-weight:bolder;
 }
+
+h1, h2, h3 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
