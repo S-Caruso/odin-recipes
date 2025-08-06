@@ -7,9 +7,10 @@ h1 {
   font-size: 35px;
 }
 
-img {
-  height: 510px;
-  width: 420px;
+.center {
+  border: 3px solid black;
+  height: 46%;
+  width: 47%;
 }
 
 h2 {
