@@ -8,6 +8,7 @@ h1 {
 }
 
 img {
+  border: 9px solid #007FFF;
   height: 510px;
   width: 420px;
 }
@@ -18,6 +19,7 @@ h2 {
 
 h3 {
   background-color: #fef69e;
+  font-weight: bold;
 }
 
 h1, h2, h3 {
