@@ -2,6 +2,10 @@
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+body {
+  background-image: linear-gradient(to bottom right, #C49382, #884056, white);
+}
+
 h1 {
   background-color: indianred;
   font-size: 35px;
