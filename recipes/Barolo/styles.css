@@ -7,6 +7,11 @@ h1 {
   font-size: 35px;
 }
 
+img {
+  height: 510px;
+  width: 420px;
+}
+
 h2 {
   background-color: #fff5ee9d;
   font-size: 35px;
@@ -22,4 +27,5 @@ h1, h2, h3 {
   align-items: center;
   display: flex;
   justify-content: center;
+  text-align: center;
 }
