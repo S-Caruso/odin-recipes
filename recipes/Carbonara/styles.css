@@ -3,9 +3,21 @@
     font-size: 20px;
 }
 
+h1 {
+  background-color: #007FFF;
+}
+
 img {
   height: 510px;
   width: 420px;
+}
+
+h2 {
+  background-color: #DF3F32;
+}
+
+h3 {
+  background-color: #fef69e;
 }
 
 h1, h2, h3 {
