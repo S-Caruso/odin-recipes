@@ -4,4 +4,16 @@
 
 h1 {
   background-color: indianred;
+  font-size: 35px;
+}
+
+h2 {
+  background-color: #fff5ee9d;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 40px;
+  font-weight:bolder;
 }
