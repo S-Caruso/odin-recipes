@@ -13,6 +13,11 @@ h2 {
   font-size: 30px;
 }
 
+img {
+  border: 7px solid white;
+  width: 500px;
+}
+
 h3 {
   color: #007FFF;
   font-size: 45px;
