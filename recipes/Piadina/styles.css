@@ -19,8 +19,15 @@ h2 {
   font-size: 30px;
 }
 
+body {
+  background-image: url(../images/strada.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 img {
   border: 7px solid;
+  border-radius: 9px;
   width: 500px;
 }
 
