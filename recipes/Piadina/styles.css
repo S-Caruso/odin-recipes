@@ -8,6 +8,10 @@ h1 {
   display: flex;
   justify-content: center;
   font-size: 30px;
+  height: 63px;
+  position: relative;
+  margin-left: -7px;
+  margin-right: -7px;
 }
 
 h2 {
