@@ -8,8 +8,8 @@ h1 {
   display: flex;
   justify-content: center;
   font-size: 30px;
-  height: 63px;
   position: relative;
+  height: 63px;
   margin-left: -7px;
   margin-right: -7px;
   bottom: 21px;

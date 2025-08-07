@@ -9,6 +9,11 @@ body {
 h1 {
   background-color: indianred;
   font-size: 35px;
+  position: relative;
+  height: 63px;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: 40px;
 }
 
 .center {
