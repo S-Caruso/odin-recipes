@@ -14,8 +14,8 @@ h1 {
 .center {
   border: 3px solid black;
   border-radius: 15px;
-  display: block;
-  margin: auto;
+  display: flex;
+  justify-content: center;
   height: 46%;
   width: 47%;
 }
