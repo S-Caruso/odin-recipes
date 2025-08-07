@@ -1,17 +1,17 @@
 * {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
-
 }
 
 h1 {
   background-color: #007FFF;
+  text-align: center;
 }
 
 img {
   border: 7px solid #007FFF;
   float: left;
-  margin-left: 35px;
+  margin-left: 15px;
   margin-right: 20px;
   height: 510px;
   width: 420px;
@@ -31,4 +31,8 @@ h1, h2, h3 {
   display: flex;
   font-size: 30px;
   justify-content: center;
+}
+
+ul, ol:last-of-type {
+  list-style-position: inside;
 }
