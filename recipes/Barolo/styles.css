@@ -29,6 +29,8 @@ h2 {
   background-color: #fff5ee9d;
   font-size: 35px;
   font-weight: bold;
+  position: relative;
+  height: 63px;
 }
 
 h3 {
