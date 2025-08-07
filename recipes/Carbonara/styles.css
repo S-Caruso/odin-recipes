@@ -11,6 +11,8 @@ h1 {
 img {
   border: 9px solid #007FFF;
   float: left;
+  margin-left: 25px;
+  margin-right: 25px;
   height: 510px;
   width: 420px;
 }
