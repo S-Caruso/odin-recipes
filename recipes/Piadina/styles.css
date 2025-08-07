@@ -21,6 +21,10 @@ h2 {
   justify-content: center;
   font-weight: bold;
   font-size: 30px;
+  height: 63px;
+  position: relative;
+  margin-left: -7px;
+  margin-right: -7px;
 }
 
 img {
