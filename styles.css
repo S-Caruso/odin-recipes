@@ -1,0 +1,13 @@
+* {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+  text-align: center;
+}
+
+a {
+  font-size: 25px;
+  color: #007FFF;
+}
