@@ -54,8 +54,13 @@ h4 {
   font-weight: bold;  
 }
 
-ul, ol {
-  font-size: 25px;
+ul {
+  font-size: 28px;
+  color: white;
+}
+
+ol {
+  font-size:30px;
   color: white;
 }
 
