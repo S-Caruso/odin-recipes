@@ -40,14 +40,14 @@ img {
 }
 
 h3 {
-  color: #007FFF;
+  color: white;
   font-size: 45px;
   font-weight: bold;
   margin-top: -20px;   
 }
 
 h4 { 
-  color: black;
+  color: white;
   display: flex;
   justify-content: center;
   font-size: 40px;
@@ -56,9 +56,11 @@ h4 {
 
 ul, ol {
   font-size: 25px;
+  color: white;
 }
 
 body {
   background-image: url("../images/piazza.jpg");
   background-repeat: no-repeat;
+  background-position: center bottom;
 }
