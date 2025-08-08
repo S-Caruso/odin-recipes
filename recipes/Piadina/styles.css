@@ -30,7 +30,7 @@ h2 {
 }
 
 img {
-  border: 7px solid;
+  border: 7px;
   border-radius: 9px;
   position: relative;
   display: flex;
