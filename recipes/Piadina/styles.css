@@ -65,7 +65,7 @@ ol {
 }
 
 body {
-  background-image: url("../images/piazza.jpg");
+  background-image: url("../images/piadineria.jpg");
   background-repeat: no-repeat;
-  background-position: center bottom;
+  background-size:auto;
 }
