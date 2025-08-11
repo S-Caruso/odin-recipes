@@ -36,27 +36,29 @@ img {
   display: flex;
   top: 5px;
   left: 900px;
-  width: 400px;
+  width: 440px;
 }
 
 h3 {
-  color: white;
-  font-size: 45px;
+  color: black;
+  font-size: 50px;
   font-weight: bold;
-  margin-top: -20px;   
+  margin-bottom: 30px;   
 }
 
 h4 { 
-  color: white;
+  color: black;
   display: flex;
   justify-content: center;
-  font-size: 40px;
+  font-size: 50px;
   font-weight: bold;  
 }
 
 ul {
-  font-size: 28px;
+  font-size: 30px;
   color: white;
+  color: white;
+  background-color: rgba(59, 57, 57, 0.575);
 }
 
 ol {
