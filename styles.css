@@ -25,7 +25,7 @@ a:link {
 }
 
 body { 
-  background-color: rgb(157, 189, 218);
+  background-color: white;
   background-image: url("images/foodbackground.jpg");
   background-repeat: no-repeat;
   background-size: cover;
