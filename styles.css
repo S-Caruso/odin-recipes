@@ -30,3 +30,18 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+p {
+  font-size: 23px;
+}
+
+.truncate-overflow {
+  margin-left: 40px;
+  max-height: calc(var(--lh) * var(--max-lines));
+  max-lines: 4; 
+  overflow: hidden; 
+  padding-right: 650px;
+  padding-top: 30px;
+  position: relative;
+  text-align: justify;
+}
