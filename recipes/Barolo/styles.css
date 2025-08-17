@@ -23,7 +23,11 @@ h1 {
   border: 3px solid black;
   border-radius: 15px;
   display: block;
-  margin: auto;
+  float: right;
+  margin-top: 75px;
+  margin-left: 3px;
+  margin-right: -5px;
+  margin-bottom: 20px;
   height: 46%;
   width: 47%;
 }
