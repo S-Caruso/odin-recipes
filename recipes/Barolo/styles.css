@@ -1,13 +1,15 @@
 * {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: justify;
 }
 
 body {
-  background-image: linear-gradient(to bottom right, #C49382, #884056, white);
+  background-image: linear-gradient(to bottom right, rgb(116, 12, 116), #d86e8e, white);
 }
 
 h1 {
-  background-color: indianred;
+  background-color: black;
+  color: violet;
   font-size: 35px;
   position: relative;
   height: 63px;
