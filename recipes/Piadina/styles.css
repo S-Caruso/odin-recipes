@@ -68,6 +68,11 @@ h3 {
   font-size: 28px;
 }
 
+h4 {
+  font-style: italic;
+  font-size: 28px;
+}
+
 h4 { 
   color: black;
   display: flex;
