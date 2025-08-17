@@ -24,6 +24,25 @@ h2 {
   font-weight: bolder;
 }
 
+.secondh2 {
+  font-size: 27px;
+  text-align: center; 
+}
+
+.truncate-overflow {
+  align-items: center;
+  font-size: 28px;
+  max-height: calc(var(--lh) * var(--max-lines));
+  max-lines: 2;
+  margin-top: 12px;
+  margin-bottom: 38px;
+  margin-left: 190px;
+  overflow: hidden; 
+  padding-right: 260px;
+  padding-top: 37px;
+  text-align: center;
+}
+
 .top-left {
   border: 3px solid #00C000;
   border-radius: 120px;
@@ -44,10 +63,9 @@ h2 {
 }
 
 h3 {
-  color: black;
-  font-size: 50px;
-  font-weight: bold;
-  margin-bottom: 30px;   
+  color: #007FFF;
+  font-style: italic;
+  font-size: 28px;
 }
 
 h4 { 
