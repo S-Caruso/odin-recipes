@@ -43,3 +43,11 @@ h1, h2, h3 {
 ul, ol:last-of-type {
   list-style-position: inside;
 }
+
+ol, li > h3 {
+  margin-left: -22px;
+}
+
+h2, h3, ol, li, p {
+  margin-right: 7px;
+}
