@@ -10,13 +10,13 @@ body {
 h1 {
   background-color: black;
   color: violet;
-  font-size: 35px;
+  font-size: 40px;
   position: relative;
   height: 63px;
   margin-left: -8px;
   margin-right: -8px;
   margin-top: -7.6px;
-  margin-bottom: 40px;
+  margin-bottom: 49px;
 }
 
 .center {
